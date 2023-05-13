@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Top 10 GEO",
+    "url": "https://www.youtube.com/watch?v=kFaKtqOXGk0",
+    "type": 1,
+    "text": "Inside every problem there is a geometry problem.",
+    "img": "top10.webp"
+  },
+  {
+    "name": "TRAINS GO WILD",
+    "url": "https://artofproblemsolving.com/community/p24269725",
+    "type": 0,
+    "text": "City planning through olympiad problems.",
+    "img": "trains.png"
+  },
+  {
+    "name": "FIND THAT LOCUS!",
+    "url": "https://www.youtube.com/watch?v=QxjyNBNKGS4",
+    "type": 1,
+    "text": "The locus is real!",
+    "img": "locus.webp"
+  },
+  {
+    "name": "CHASING AFTER THE TANGENT",
+    "url": "https://artofproblemsolving.com/community/p24727529",
+    "type": 0,
+    "text": "Tangent piano.",
+    "img": "tangent.png"
+  },
+  {
+    "name": "TRIG = PAIN",
+    "url": "https://www.youtube.com/watch?v=HYHsVSqveMI",
+    "type": 1,
+    "text": "It is a sin after all.",
+    "img": "trig.webp"
+  },
+  {
+    "name": "OMG WTF MAX MIN",
+    "url": "https://artofproblemsolving.com/community/p3094088",
+    "type": 0,
+    "text": "Evidently, max min is less than min max",
+    "img": "maxmin.png"
+  },
+  {
+    "name": "3D COMBO GEO??",
+    "url": "https://www.youtube.com/watch?v=7Qjr5CwzQDU",
+    "type": 1,
+    "text": "Four color theorem in Three Dimensions.",
+    "img": "3dgeo.webp"
+  },
+  {
+    "name": "MAKING VODKA",
+    "url": "https://artofproblemsolving.com/community/p9027765",
+    "type": 0,
+    "text": "The intersection of progress in the alcohol industry and statistics in nonempty.",
+    "img": "vodka.png"
+  },
+  {
+    "name": "WRITE EQUATIONS AND PRAY",
+    "url": "https://www.youtube.com/watch?v=sCZMl8JGDh0",
+    "type": 1,
+    "text": "Not necessarily in that order.",
+    "img": "pray.webp"
+  },
+  {
+    "name": "MULTIPLICATIVE SUBGROPS BACK!",
+    "url": "https://www.youtube.com/watch?v=AlIvbT2FCI4",
+    "type": 1,
+    "text": "A subgroup of a subgroup can be referred to as a \"subsubgroup\"",
+    "img": "subgroup.webp"
+  },
+  {
+    "name": "A FAMILIAR POINT",
+    "url": "https://artofproblemsolving.com/community/p27522960",
+    "type": 0,
+    "text": "Brought to you by mass produced diagrams.",
+    "img": "familiar.png"
+  },
+  {
+    "name": "REST IN PEACE, GEOMETRY!",
+    "url": "https://artofproblemsolving.com/community/p25635154",
+    "type": 0,
+    "text": "Tombstone glyph.",
+    "img": "tomb.png"
+  },
+  {
+    "name": "POLYHEDRON IN OCEAN",
+    "url": "https://www.youtube.com/watch?v=jacgQ_r-ROE",
+    "type": 1,
+    "text": "Prequel to Boatis summer program.",
+    "img": "ocean.webp"
+  },
+  {
+    "name": "SYNTHETIC WITH COORDINATES?",
+    "url": "https://www.youtube.com/watch?v=8ij1wFg-SjU",
+    "type": 1,
+    "text": "Jumbo Shrimp and other oxymorons to tell yourself.",
+    "img": "synth.webp"
+  },
+  {
+    "name": "ONE MILLION SOLDIERS!",
+    "url": "https://www.youtube.com/watch?v=zmaXZLRUpJg",
+    "type": 1,
+    "text": "A million soldiers fill my head.",
+    "img": "soldier.webp"
+  },
+  {
+    "name": "LINES MEET ON INCIRCLE",
+    "url": "https://artofproblemsolving.com/community/p8526136",
+    "type": 0,
+    "text": "All roads lead to the incircle.",
+    "img": "meet.png"
+  },
+  {
+    "name": "CATCH THE THIEF",
+    "url": "https://www.youtube.com/watch?v=czE1CFWK0BE",
+    "type": 1,
+    "text": "Only a thief wishes that you are propsering.",
+    "img": "thief.webp" 
+  },
+  {
+    "name": "CLIPPING POLYGON",
+    "url": "https://www.youtube.com/watch?v=Nc4E8-QtjHk",
+    "type": 1,
+    "text": "Soccer ball factories probably do this.",
+    "img": "clip.webp"
+  },
+  {
+    "name": "A WIZARD KIDNAPS 101 PEOPLE",
+    "url": "https://artofproblemsolving.com/community/p3589498",
+    "type": 0,
+    "text": "Why are all these wardens math majors?",
+    "img": "warden.png"
+  },
+  {
+    "name": "SEQUENCE GETS RATIO'D",
+    "url": "https://artofproblemsolving.com/community/p27522955",
+    "type": 0,
+    "text": "Is it a golden ratio though?",
+    "img": "ratio.png"
+  },
+  {
+    "name": "CIRCUMCIRCLE EXCIRCLE CHAOS",
+    "url": "https://artofproblemsolving.com/community/p25627547",
+    "type": 0,
+    "text": "(insert latin preposition)-circle",
+    "img": "circex.png" 
+  },
+  {
+    "name": "FAILED PERFORMANCE",
+    "url": "https://www.youtube.com/watch?v=uDVCCdQLt6s",
+    "type": 1,
+    "text": "Featuring a card trick.",
+    "img": "fail.webp"
+  },
+  {
+    "name": "CONCURRENCY IN PARALLELOGRAM",
+    "url": "https://artofproblemsolving.com/community/p27522955",
+    "type": 0,
+    "text": "What is a \"parallelo\"gram? I don't speak metric.",
+    "img": "conc.png" 
+  },
+  {
+    "name": "DELETE ROOK",
+    "url": "https://www.youtube.com/watch?v=vH67pRJdM8g",
+    "type": 1,
+    "text": "Qxg7",
+    "img": "queen.webp"
+  },
+  {
+    "name": "CUBED FE",
+    "url": "https://artofproblemsolving.com/community/p27522955",
+    "type": 0,
+    "text": "Cubing the FE.",
+    "img": "cubefe.png"
+  },
+  {
+    "name": "OF MICE AND LAZERS",
+    "url": "https://www.youtube.com/watch?v=H0HNe0I1WQI",
+    "type": 1,
+    "text": "Most moral set theorist.",
+    "img": "mice.webp"
+  },
+  {
+    "name": "BEAR VS CROCODILE",
+    "url": "https://artofproblemsolving.com/community/p27397622",
+    "type": 0,
+    "text": "Its better to bear with the crocodile than crocodile with the bear.",
+    "img": "bear.png"
+  }
+]
