@@ -1,15 +1,15 @@
 {
-  "name": "pokemonorbigdata",
+  "name": "evanorhso",
   "version": "0.0.1",
   "description": "Is this a vEnhance thumbnail or a HSO post ?",
   "author": "Tim \"pixelastic\" Carry",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:pixelastic/pokemonorbigdata.git"
+    "url": "ssh://git@github.com:Incompleteusern/pokemonorbigdata.git"
   },
   "bugs": {
-    "url": "https://github.com/pixelastic/pokemonorbigdata/issues"
+    "url": "https://github.com/Incompleteusern/pokemonorbigdata/issues"
   },
   "scripts": {
     "build": "./scripts/build",
