@@ -3,7 +3,7 @@
 var SplashScreen = React.createClass({
   render: function() {
     return (
-      <div className="splashscreen">Is it vEnhance or a HSO Post?</div>
+      <div className="splashscreen">Is it a vEnhance thumbnail or a HSO Post?</div>
     )
   }
 });
